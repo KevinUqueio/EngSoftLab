@@ -1,5 +1,7 @@
 
 function 
-a=5
+
+a=6
+>>>>>>> conflito
 b=5
 c=3
